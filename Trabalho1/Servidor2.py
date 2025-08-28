@@ -3,9 +3,7 @@ import json
 
 # Questões de múltipla escolha
 questions = [
-    {"question": "Qual é a capital da Itália?", "options": ["A) Roma", "B) Paris", "C) Lisboa", "D) Londres"], "answer": "A"},
-    {"question": "Qual é a capital da França?", "options": ["A) Roma", "B) Paris", "C) Lisboa", "D) Londres"], "answer": "B"},
-    {"question": "Qual é a capital de Portugal?", "options": ["A) Roma", "B) Paris", "C) Lisboa", "D) Londres"], "answer": "C"}
+    {"question": "Qual é a capital da Itália?", "options": ["A) Roma", "B) Paris", "C) Lisboa", "D) Londres"], "answer": "A"}
 ]
 
 def start_server():
@@ -38,4 +36,5 @@ def start_server():
     conn.close()
 
 if __name__ == "__main__":
+
     start_server()
