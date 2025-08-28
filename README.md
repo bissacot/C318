@@ -17,18 +17,6 @@ As questões de exemplo utilizadas no projeto são:
    - C) Lisboa
    - D) Londres
 
-2. Qual é a capital da França?
-   - A) Roma
-   - B) Paris
-   - C) Lisboa
-   - D) Londres
-
-3. Qual é a capital de Portugal?
-   - A) Roma
-   - B) Paris
-   - C) Lisboa
-   - D) Londres
-
 ## Como Executar
 
 ### Passo 1: Executar o Servidor
